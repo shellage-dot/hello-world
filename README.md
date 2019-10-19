@@ -1,2 +1,5 @@
-# hello-world
-My first repository for learning GitHub.
+# Hello World!
+
+A small programm for output text in console. Hello, World!
+
+Thanks for watching.
